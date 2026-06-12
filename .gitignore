@@ -1,0 +1,12 @@
+node_modules/
+auth_info/
+.env
+*.log
+*.mp3
+*.mp4
+*.webp
+*.jpg
+*.png
+tmp/
+.DS_Store
+store/
